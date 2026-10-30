@@ -21,7 +21,7 @@ AI & Automation
 - n8n
 - Zapier
 - Make
-- Vapi AI
+- Vapi AI voice assistant 
 - AI Agents and LLM integrations
 
 Development & Technical Tools
